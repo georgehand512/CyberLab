@@ -324,8 +324,8 @@ Before experimentation:
 
 1. Power off both VMs.
 2. Take VirtualBox snapshots:
-   - Windows: `WindowsMachine_Baseline`
-   - Kali: `KaliLinuxMachine_Baseline`
+   - Windows: `WindowsMachine_Baseline_v1.0`
+   - Kali: `KaliLinuxMachine_Baseline_v1.0`
 3. Confirm both boot correctly after snapshot.
 
 ---

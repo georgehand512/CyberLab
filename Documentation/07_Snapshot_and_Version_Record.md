@@ -86,8 +86,8 @@ Segmentation:
 
 ### Snapshots
 
-WindowsMachine_Baseline  
-KaliLinuxMachine_Baseline  
+WindowsMachine_Baseline_v1.0  
+KaliLinuxMachine_Baseline_v1.0  
 
 ### OVA Export
 
