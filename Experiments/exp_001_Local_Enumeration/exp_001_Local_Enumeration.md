@@ -52,10 +52,10 @@ Constraints:
 Snapshots Taken:
 
 Windows:  
-WindowsMachine_Baseline
+WindowsMachine_Baseline_v1.0
 
 Kali:  
-KaliLinuxMachine_Baseline
+KaliLinuxMachine_Baseline_v1.0
 
 Internal connectivity verified:
 
