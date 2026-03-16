@@ -32,8 +32,6 @@ Examples:
 
 WindowsMachine_Baseline_v1.0  
 KaliLinuxMachine_Baseline_v1.0  
-WindowsMachine_PreExp_001  
-KaliLinuxMachine_PostExp_002  
 
 ---
 
@@ -103,6 +101,30 @@ KaliLinuxMachine_Baseline_v1.0
 - [x] IPv6 disabled on LabNet
 - [x] Snapshot created
 - [x] OVA exported
+
+---
+
+## Version: v1.1 – Enhanced Logging
+
+**Date Created:** 2026-03-16  
+**Status:** Enhanced Logging  
+
+### Included VMs
+
+- WindowsMachine (Windows 11 Pro)
+- KaliLinuxMachine (Kali Linux)
+
+### Snapshots
+
+WindowsMachine_Baseline_v1.1  
+KaliLinuxMachine_Baseline_v1.1  
+
+### Validation Checklist
+
+- [x] Internal ping verified
+- [x] Audit Policies Updated
+- [x] Firewall Log updated and verified
+- [x] Snapshot created
 
 ---
 

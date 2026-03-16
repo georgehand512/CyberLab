@@ -104,6 +104,44 @@ Baseline validated and approved for experimentation.
 
 ---
 
+## v1.1 – Enhanced Logging Enabled
+
+Date: 2026-03-16  
+Change Type: Enhanced Logging Enabled  
+Source: Windows Audit Policies  
+
+### Summary
+
+- Reviewed existing audit policy
+- Enabled advanced audit policies
+- Ensure network profile is private
+- Enabled windows firewall logging
+- Verified logging
+- Snapshots created
+
+### Rationale
+
+Rectify enumeration issues from exp001_Local_Enumeration, provides better visibility from network telemetry and logging.
+
+### Baseline Impact Classification
+
+Minor Version Establishment (Enhanced Logging Enabled)
+
+### Snapshot Status
+
+WindowsMachine_Baseline_v1.1  
+KaliLinuxMachine_Baseline_v1.1  
+
+### Documentation Updates Checklist
+
+- [x] 07_Snapshot_and_Version_Record.md
+
+### Validation Status
+
+Baseline validated and approved for experimentation.
+
+---
+
 # Future Change Entry Template
 
 ---
