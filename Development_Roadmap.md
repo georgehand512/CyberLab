@@ -29,6 +29,7 @@ Certifications:
 Practical Training:
 - TryHackMe SOC Level 1 Path (in progress)
 - Personal CyberLab (VirtualBox, Windows 11 + Kali)
+- Experiments exp_001 through exp_004 complete
 
 Objective:
 Secure an entry-level cyber security role (SOC Analyst / Junior Security Analyst) with strong defensive foundations and professional discipline.
